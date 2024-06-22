@@ -1,4 +1,4 @@
-version: "4.26"
+version: "3.9"
 
 services:
 
@@ -26,6 +26,7 @@ services:
       ME_CONFIG_MONGODB_ADMINUSERNAME: mitocode
       ME_CONFIG_MONGODB_ADMINPASSWORD: mitocode
       ME_CONFIG_MONGODB_URL: mongodb://mitocode:mitocode@mongo-service:27017
+      ME_CONFIG_BASICAUTH: false
     networks:
       - mitocode
 

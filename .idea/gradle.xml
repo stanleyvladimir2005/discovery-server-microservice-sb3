@@ -35,6 +35,16 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../product-service" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../product-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../user-service" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.9" />
         <option name="modules">

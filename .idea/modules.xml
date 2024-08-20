@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication-client-oauth2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication-client-oauth2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication-server-jwt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication-server-jwt.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication-server-oauth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication-server-oauth.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/client-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/client-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-models.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common-models.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.main.iml" />
     </modules>

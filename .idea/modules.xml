@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/audit-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/audit-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication-client-oauth2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication-client-oauth2.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication-server-jwt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication-server-jwt.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication-server-oauth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication-server-oauth.main.iml" />

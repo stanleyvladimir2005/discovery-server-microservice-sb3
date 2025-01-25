@@ -6,7 +6,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../audit-service" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../audit-service" />
@@ -16,8 +17,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-client-oauth2" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
-        <option name="gradleJvm" value="graalvm-17" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-7.6.4" />
+        <option name="gradleJvm" value="Java 17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authentication-client-oauth2" />
@@ -27,8 +28,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-server-jwt" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
-        <option name="gradleJvm" value="graalvm-22" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authentication-server-jwt" />
@@ -38,8 +39,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-server-oauth" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
-        <option name="gradleJvm" value="graalvm-17" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-7.6.4" />
+        <option name="gradleJvm" value="Java 17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authentication-server-oauth" />
@@ -49,7 +50,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../client-service" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../client-service" />
@@ -59,7 +61,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../cloud-gateway" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../cloud-gateway" />
@@ -69,8 +72,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../common-models" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
-        <option name="gradleJvm" value="graalvm-22" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../common-models" />
@@ -80,7 +83,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../config-server" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../config-server" />
@@ -90,7 +94,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/discovery-server" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/discovery-server" />
@@ -100,7 +105,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../product-service" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../product-service" />
@@ -110,7 +116,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../user-service" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.10" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-8.12.1" />
+        <option name="gradleJvm" value="Java 21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../user-service" />

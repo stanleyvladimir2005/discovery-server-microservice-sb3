@@ -74,7 +74,7 @@ services:
       - mitocode
 
   broker:
-    image: confluentinc/cp-kafka
+    image: confluentinc/cp-kafka:7.3.3  # o similar, que no tenga KRaft obligatorio
     container_name: mitocode-kafka-broker
     ports:
       - 9092:9092
@@ -82,6 +82,7 @@ services:
       - zookeeper
     environment:
       KAFKA_BROKER_ID: 1
+      KAFKA_KRAFT_MODE: "false"
       KAFKA_ZOOKEEPER_CONNECT: 'zookeeper:2181'
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT, PLAINTEXT_INTERNAL:PLAINTEXT
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092,PLAINTEXT_INTERNAL://broker:29092

@@ -6,8 +6,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../audit-service" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../audit-service" />
@@ -17,7 +17,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-client-oauth2" />
-        <option name="gradleHome" value="C:\Program Files\gradle-7.6.6" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/7.6.6" />
         <option name="gradleJvm" value="Java 17" />
         <option name="modules">
           <set>
@@ -28,8 +28,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-server-jwt" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authentication-server-jwt" />
@@ -39,7 +39,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-server-oauth" />
-        <option name="gradleHome" value="C:\Program Files\gradle-7.6.6" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/8.14.3" />
         <option name="gradleJvm" value="Java 17" />
         <option name="modules">
           <set>
@@ -50,8 +50,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../client-service" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../client-service" />
@@ -61,8 +61,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../cloud-gateway" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../cloud-gateway" />
@@ -72,8 +72,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../common-models" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../common-models" />
@@ -83,8 +83,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../config-server" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../config-server" />
@@ -94,8 +94,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/discovery-server" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/discovery-server" />
@@ -105,8 +105,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../product-service" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../product-service" />
@@ -116,8 +116,8 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../user-service" />
-        <option name="gradleHome" value="C:\Program Files\gradle" />
-        <option name="gradleJvm" value="Java 21" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.1.0" />
+        <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../user-service" />

@@ -6,123 +6,123 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../audit-service" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../audit-service" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-client-oauth2" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle-8.14.4" />
         <option name="gradleJvm" value="Java 17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authentication-client-oauth2" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/7.6.6" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-server-jwt" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authentication-server-jwt" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../authentication-server-oauth" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle-8.14.4" />
         <option name="gradleJvm" value="Java 17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authentication-server-oauth" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/7.6.6" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../client-service" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../client-service" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../cloud-gateway" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../cloud-gateway" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../common-models" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../common-models" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../config-server" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../config-server" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/discovery-server" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/discovery-server" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../product-service" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../product-service" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../user-service" />
-        <option name="gradleHome" value="E:\Portable Programs\gradle" />
         <option name="gradleJvm" value="Java 25" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../user-service" />
           </set>
         </option>
+        <option name="myGradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/9.4.1" />
       </GradleProjectSettings>
     </option>
   </component>
